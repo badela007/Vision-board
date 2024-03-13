@@ -1,0 +1,42 @@
+body {
+  background-color: rgb(230, 179, 131);
+  font-style: normal;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20;
+  margin: 40px;
+}
+
+h1 {
+  font-style: italic;
+  font-family: Arial, Helvetica, sans-serif;
+  color: brown;
+}
+
+ul,
+ol {
+  list-style-type: none;
+}
+
+img {
+  width: 1em;
+  height: 1em;
+}
+
+#dancer {
+  width: 30em;
+  height: auto;
+  border-radius: 10%;
+}
+
+a:link {
+  color: rgb(4, 49, 15);
+  text-decoration: none;
+}
+
+a:visited {
+  color: rgb(26, 184, 39);
+}
+
+a:hover {
+  color: rgba(255, 102, 0, 0.973);
+}
